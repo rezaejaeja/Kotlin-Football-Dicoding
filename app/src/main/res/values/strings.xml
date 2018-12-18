@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Match Information</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_past">Last Game</string>
+    <string name="title_next">Next Game</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="event_leagueid">4328</string>
+
+</resources>
