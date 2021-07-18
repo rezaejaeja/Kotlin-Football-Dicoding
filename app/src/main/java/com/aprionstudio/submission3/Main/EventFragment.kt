@@ -20,6 +20,7 @@ class EventFragment() : Fragment(), MainView {
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
 
+        // testing bugfixing branch PR
         adapter = MainAdapter(eventResults)
         match_list.layoutManager = LinearLayoutManager(activity)
         match_list.addItemDecoration(DividerItemDecoration(activity, LinearLayoutManager.VERTICAL));
