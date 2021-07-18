@@ -18,6 +18,7 @@ class HomeActivity : AppCompatActivity() {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        // testing third PR 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
