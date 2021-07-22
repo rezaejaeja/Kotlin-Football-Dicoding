@@ -18,10 +18,7 @@ class HomeActivity : AppCompatActivity() {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        // testing third PR
-        // testing fifth signoff tvlk
-        // testing sixth signoff ree
-
+        // testing seventh PR - 2
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
