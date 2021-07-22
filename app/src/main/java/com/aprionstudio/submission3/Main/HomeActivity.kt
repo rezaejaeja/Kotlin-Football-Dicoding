@@ -18,6 +18,7 @@ class HomeActivity : AppCompatActivity() {
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        // testing seventh PR - 2
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
